@@ -67,7 +67,7 @@ At the end of this module, you should be able to:
     
     
 
-    Dustins Workflow:
+    Dustins Redux Workflow:
         - work on a component
         - connect that component if needed
         - when an event needs to update state

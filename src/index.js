@@ -9,7 +9,7 @@ import './styles.scss';
 import {reducer} from "./reducers/reducer"
 //1 create redux store and connect it to our react app
 const store = createStore(reducer);
-console.log(store.getState());
+// console.log(store.getState());
 
 
 const rootElement = document.getElementById('root');
